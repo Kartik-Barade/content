@@ -1,452 +1,500 @@
-# 👋 Hi, I'm Kartik Barade
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Kartik%20Barade&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Student%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-</p>
+# ⚡ KARTIK BARADE
 
-<p align="center">
-  <a href="https://kartikbarade.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kartikbarade">
-    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### `AI/ML ENGINEER` · `SOFTWARE DEVELOPER` · `UI/UX DESIGNER`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineering+Student;Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Building+Ideas+Into+Real+Projects" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Turning+Ideas+Into+Real+Projects;Machine+Learning+%7C+Full+Stack+%7C+UI%2FUX;Learning+%E2%86%92+Building+%E2%86%92+Improving" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikbarade&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/kartikbarade?label=Followers&style=for-the-badge&color=161B22&logo=github"/>
-  <img src="https://img.shields.io/github/stars/kartikbarade?label=Stars&style=for-the-badge&color=F59E0B&logo=github"/>
-</p>
+<br>
+
+<a href="https://kartikbarade.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111&color=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://github.com/kartikbarade">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=BC8CFF"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111&color=0A66C2"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kartikbarade&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-> **AI/ML Engineering student who enjoys turning ideas into practical software.**
+## `01` — WHO AM I?
 
-I'm passionate about building **intelligent applications, full-stack web experiences, data-driven solutions, and modern UI/UX designs**.
+</div>
 
-My interests sit at the intersection of:
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**🤖 Artificial Intelligence** • **💻 Software Development** • **📊 Data Analytics** • **🎨 UI/UX Design**
+### 👨‍💻 Building at the intersection of
+
+**Artificial Intelligence × Software × Design**
+
+I'm an **AI/ML Engineering student** interested in building practical software rather than just studying technologies.
+
+I enjoy taking an idea from:
+
+`💡 Concept`
+
+→ `🎨 Design`
+
+→ `💻 Development`
+
+→ `🤖 Intelligence`
+
+→ `🚀 Working Product`
+
+My interests include **Machine Learning, Full Stack Development, Data Analytics, UI/UX Design and intelligent applications.**
+
+</td>
+
+<td width="40%" valign="top">
 
 ```text
-🎓  AI/ML Engineering Student
-💻  Software & Full Stack Developer
-🤖  Machine Learning Enthusiast
-🎨  UI/UX Designer
-📊  Data Analysis & Visualization
-🚀  Always learning. Always building.
+┌─────────────────────────┐
+│       KARTIK.EXE        │
+├─────────────────────────┤
+│                         │
+│ 🎓 AI/ML Engineering    │
+│ 💻 Software Development │
+│ 🤖 Machine Learning     │
+│ 🎨 UI/UX Design         │
+│ 📊 Data Analytics       │
+│                         │
+│ Status: BUILDING...     │
+│                         │
+└─────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ What I Work On
+<div align="center">
+
+## `02` — MY DIGITAL TOOLBOX
+
+</div>
+
+### 🧠 AI / DATA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 💻 DEVELOPMENT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs" />
+</p>
+
+### ⚙️ BACKEND & DATABASE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,mysql,mongodb,postgresql" />
+</p>
+
+### 🎨 DESIGN & TOOLS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,jupyter" />
+</p>
+
+---
+
+<div align="center">
+
+## `03` — WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖
+
+## AI / ML
+
+Machine learning models, predictive systems, computer vision and intelligent applications.
+
+`Python`
+
+`Scikit-Learn`
+
+`OpenCV`
+
+`Data Analysis`
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻
+
+## SOFTWARE
+
+Modern web applications, REST APIs, database systems and full-stack solutions.
+
+`React`
+
+`Node.js`
+
+`FastAPI`
+
+`SQL`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎨
+
+## EXPERIENCE
+
+Modern interfaces, prototypes and user-focused digital experiences.
+
+`Figma`
+
+`UI/UX`
+
+`Prototyping`
+
+`Responsive UI`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚀 `04` — FEATURED PROJECTS
+
+### *Things I've actually built, tested and experimented with.*
+
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+# 📊 Student Performance Prediction
 
-* Machine Learning
-* Predictive Modeling
-* Data Analysis
-* Model Evaluation
-* Computer Vision
-* Intelligent Applications
+### `MACHINE LEARNING`
 
-</td>
+A data-driven project for analyzing student information and predicting academic performance.
 
-<td width="50%" valign="top">
+**STACK**
 
-### 💻 Software Development
+`Python` `Pandas` `NumPy`
+`Scikit-Learn` `Jupyter`
 
-* Full Stack Web Development
-* REST APIs
-* Backend Development
-* React Applications
-* Database Applications
-* Responsive Web Interfaces
+**MODELS**
 
-</td>
-</tr>
+`Naive Bayes`
+`Logistic Regression`
 
-<tr>
-<td width="50%" valign="top">
+**FEATURES**
 
-### 🎨 UI/UX Design
-
-* Figma
-* Wireframing
-* Prototyping
-* Responsive UI
-* Design Systems
-* User-Centered Design
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Currently Improving
-
-* Python
-* Java
-* Data Structures & Algorithms
-* Machine Learning
-* Backend Development
-* Problem Solving
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-**Focus:** Responsive Design • Modern UI • Component-Based Development • Interactive Interfaces
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,python,fastapi" />
-</p>
-
-**Focus:** REST APIs • Server-Side Development • Authentication • Database Integration
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
----
-
-## 🤖 AI / ML & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
----
-
-## 🎨 Design & Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,jupyter" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>Projects where I learn, experiment, solve problems and turn ideas into working applications.</i>
-</p>
-
----
-
-### 📊 01 — Student Performance Prediction
-
-> **Machine Learning • Data Analysis • Predictive Analytics**
-
-A machine learning project focused on analyzing student data and predicting academic performance.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter`
-
-**What I Built**
-
-* 📥 Data preprocessing
-* 🔎 Exploratory Data Analysis
-* 📊 Data visualization
-* 🤖 Predictive models
-* 📈 Model comparison
-* 🧪 Performance evaluation
-
-**Algorithms**
-
-`Naive Bayes` `Logistic Regression`
-
-**Repository**
+✓ Data preprocessing
+✓ Exploratory analysis
+✓ Visualization
+✓ Model comparison
+✓ Performance evaluation
 
 <a href="https://github.com/kartikbarade/Student-Data-Analysis">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
 
-### 🎨 02 — Bicycle & Plant Store UI/UX
+<td width="50%" valign="top">
 
-> **UI/UX Design • Figma • Prototyping**
+# 🤏 Hand Gesture Control
 
-A collection of modern eCommerce interface designs created with a focus on usability, visual hierarchy and clean interaction flows.
+### `COMPUTER VISION`
 
-**Tools**
+A real-time computer vision application that uses hand gestures to control system volume.
 
-`Figma` `Excalidraw` `Prototyping`
-
-**Highlights**
-
-* 🖥️ Modern interface design
-* 📱 Responsive design concepts
-* 🛍️ Product browsing flow
-* 🎯 User-centered layouts
-* ✨ Clean visual hierarchy
-* 🔄 Interactive prototypes
-
----
-
-### 🌐 03 — Personal Developer Portfolio
-
-> **React • UI/UX • Motion Design**
-
-A personal portfolio website designed to showcase my projects, technical skills, design work and development journey.
-
-**Tech Stack**
-
-`React` `CSS` `JavaScript` `Framer Motion`
-
-**Highlights**
-
-* ✨ Modern dark interface
-* 📱 Responsive layout
-* 🎬 Interactive animations
-* 🧩 Project showcase
-* 🎨 Personal branding
-
-<a href="https://kartikbarade.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-### 🤏 04 — Hand Gesture Volume Control
-
-> **Computer Vision • OpenCV • MediaPipe**
-
-A real-time computer vision application that allows users to control system volume using hand gestures.
-
-**Tech Stack**
+**STACK**
 
 `Python` `OpenCV` `MediaPipe`
 
-**Highlights**
+**FEATURES**
 
-* 🖐️ Real-time hand tracking
-* 🎯 Gesture recognition
-* 🔊 System volume control
-* 👁️ Computer vision
-* ⚡ Real-time interaction
+✓ Real-time hand tracking
+✓ Gesture recognition
+✓ System interaction
+✓ Computer vision
+✓ Real-time processing
 
 <a href="https://github.com/kartikbarade/Hand-Gesture-Volume-Control">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-BC8CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-# 🧪 Currently Building
-
-### 🤖 AI-Powered Sales & Marketing Agent
-
-An AI-based system designed to assist websites with **sales, marketing and lead management**.
-
-```text
-                    AI Sales & Marketing System
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          🛒 Sales         📢 Marketing      🎯 Leads
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                       📊 Analytics
-```
-
-**Areas**
-
-`AI` `LLM` `RAG` `FastAPI` `React` `PostgreSQL` `REST API`
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="49%"/>
-</p>
-
----
-
-# 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbarade&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Kartik%20Barade%20-%20Contribution%20Activity" width="95%"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikbarade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
-</p>
-
----
-
-# 🎯 2026 Focus
-
-<table align="center">
-<tr>
-<td align="center">🤖</td>
-<td><b>Artificial Intelligence</b></td>
-<td>Machine Learning & Intelligent Applications</td>
+</td>
 </tr>
 
 <tr>
-<td align="center">💻</td>
-<td><b>Development</b></td>
-<td>Full Stack & Backend Development</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td align="center">🧠</td>
-<td><b>Problem Solving</b></td>
-<td>DSA & Programming Fundamentals</td>
-</tr>
+# 🌐 Personal Portfolio
 
-<tr>
-<td align="center">📊</td>
-<td><b>Data</b></td>
-<td>Data Analysis & Visualization</td>
-</tr>
+### `WEB DEVELOPMENT`
 
-<tr>
-<td align="center">🎨</td>
-<td><b>Design</b></td>
-<td>UI/UX & Product Interfaces</td>
-</tr>
+My personal digital space for showcasing development, design and projects.
 
-<tr>
-<td align="center">🚀</td>
-<td><b>Career</b></td>
-<td>Software Development Opportunities</td>
+**STACK**
+
+`React` `JavaScript`
+`CSS` `Framer Motion`
+
+**FOCUS**
+
+✓ Modern UI
+✓ Responsive design
+✓ Motion & interaction
+✓ Personal branding
+✓ Project showcase
+
+<a href="https://kartikbarade.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20WEBSITE-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🎨 Bicycle & Plant Store
+
+### `UI / UX DESIGN`
+
+Modern eCommerce concepts designed around clean layouts and intuitive shopping experiences.
+
+**TOOLS**
+
+`Figma` `Excalidraw`
+
+**FOCUS**
+
+✓ Product discovery
+✓ Shopping flow
+✓ Visual hierarchy
+✓ Modern interface
+✓ Interactive prototypes
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🧭 My Learning Loop
+<div align="center">
+
+# 🧪 `05` — CURRENTLY BUILDING
+
+</div>
+
+<table>
+<tr>
+<td>
+
+# 🤖 AI Sales & Marketing Agent
+
+### Turning websites into intelligent business assistants.
+
+A project focused on building AI agents for:
+
+```text
+             ┌──────────────────────┐
+             │     WEBSITE / SCS     │
+             └──────────┬───────────┘
+                        │
+              ┌─────────▼─────────┐
+              │     AI SYSTEM     │
+              └─────────┬─────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+   🛒 SALES        📢 MARKETING       🎯 LEADS
+        │               │               │
+        └───────────────┼───────────────┘
+                        ▼
+                  📊 ANALYTICS
+```
+
+**Technology**
+
+`AI` `LLM` `RAG` `FastAPI` `React` `PostgreSQL`
+
+**Goal**
+
+> Build practical AI agents that can interact with customers, support sales workflows and provide useful business insights.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `06` — MY DEVELOPMENT FLOW
+
+```text
+             ┌───────────┐
+             │   IDEA 💡 │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │  DESIGN 🎨│
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │  BUILD 💻 │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │  TEST 🧪  │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │ ANALYZE 📊│
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │ IMPROVE 🚀│
+             └───────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 `07` — GITHUB ACTIVITY
+
+</div>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="49%"/>
+</p>
 
-**💡 LEARN**
+<br>
 
-↓
-
-**🛠️ BUILD**
-
-↓
-
-**🧪 EXPERIMENT**
-
-↓
-
-**📊 ANALYZE**
-
-↓
-
-**🚀 IMPROVE**
-
-↓
-
-**🔁 REPEAT**
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbarade&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
 </p>
 
 ---
 
-# 🌱 Beyond Code
+<div align="center">
 
-```text
-🎨 Designing interfaces
-💡 Exploring new technologies
-🧠 Solving programming problems
-📊 Working with data
-🤖 Experimenting with AI/ML
-🚀 Building practical projects
-```
+# 🏆 `08` — GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartikbarade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" width="95%"/>
+
+</div>
 
 ---
 
-# 📫 Let's Connect
+<div align="center">
 
-<p align="center">
+# 🎯 `09` — CURRENT MISSION
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">🤖</td>
+<td><b>AI / ML</b></td>
+<td>Build practical intelligent applications</td>
+</tr>
+<tr>
+<td align="center">💻</td>
+<td><b>Development</b></td>
+<td>Strengthen full-stack & backend development</td>
+</tr>
+<tr>
+<td align="center">🧠</td>
+<td><b>DSA</b></td>
+<td>Improve problem solving & programming fundamentals</td>
+</tr>
+<tr>
+<td align="center">📊</td>
+<td><b>Data</b></td>
+<td>Learn deeper data analysis & visualization</td>
+</tr>
+<tr>
+<td align="center">🎨</td>
+<td><b>Design</b></td>
+<td>Create better digital experiences</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 `10` — FIND ME ONLINE
+
+<br>
 
 <a href="https://kartikbarade.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111111?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kartikbarade">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kartik-barade-51a9102b1/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kartikbarade@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 ---
 
-<p align="center">
+### `BUILDING IDEAS → WRITING CODE → CREATING IMPACT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer"/>
+<br>
 
-### 🚀 Build. Learn. Create. Improve.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+interesting.;Always+learning.+Always+building." />
 
-**Thanks for visiting my profile! ⭐**
+<br><br>
 
-<sub>Turning ideas into practical solutions, one project at a time.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%"/>
 
-</p>
+</div>
