@@ -160,17 +160,18 @@ I enjoy working at the intersection of **Artificial Intelligence, Machine Learni
 
 ---
 
-# 📊 My GitHub Language Usage
+# 📊 My GitHub Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikbarade&theme=tokyonight"
+    width="500"
+    alt="GitHub Language Usage"
   />
 </p>
 
 <p align="center">
-  <i>Language percentages are calculated automatically from my GitHub repositories.</i>
+  <i>Programming language distribution across my GitHub repositories.</i>
 </p>
 
 ---
