@@ -292,20 +292,27 @@ Computer vision project that allows users to control system volume using hand ge
 
 ---
 
+---
+
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9"
-    width="48%"
-  />
 
 <img
- src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbarade&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
- width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=kartikbarade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&cache_seconds=86400"
+  width="48%"
+  alt="Kartik Barade GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbarade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400"
+  width="48%"
+  alt="Kartik Barade Top Languages"
 />
 
 </p>
+
+---
 
 ---
 
